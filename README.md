@@ -230,5 +230,5 @@ litellm supports [100+ providers](https://docs.litellm.ai/docs/providers) — ju
 - **Persist the FAISS index** — use `faiss.write_index` to avoid recomputing on every run
 - **Add evaluation** — log retrieved entries and LLM outputs to measure RAG quality
   
-##To build this RAG system, refered the project by TechWithPrateek
+## To build this RAG system, refered the project by TechWithPrateek
 
