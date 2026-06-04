@@ -1,4 +1,3 @@
-To build this RAG system, refered the project by TechWithPrateek
 # 🎫 RAG Support Ticket Classifier (Hybrid Search)
 
 A beginner-friendly **Retrieval-Augmented Generation (RAG)** system that classifies
@@ -230,3 +229,6 @@ litellm supports [100+ providers](https://docs.litellm.ai/docs/providers) — ju
 - **Add reranking** — insert a cross-encoder reranker between retrieval and generation
 - **Persist the FAISS index** — use `faiss.write_index` to avoid recomputing on every run
 - **Add evaluation** — log retrieved entries and LLM outputs to measure RAG quality
+  
+##To build this RAG system, refered the project by TechWithPrateek
+
