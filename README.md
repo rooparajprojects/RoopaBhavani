@@ -1,4 +1,4 @@
-Used a reference project by TechWithPrateek repo
+Used a reference project by TechWithPrateek
 # 🎫 RAG Support Ticket Classifier (Hybrid Search)
 
 A beginner-friendly **Retrieval-Augmented Generation (RAG)** system that classifies
